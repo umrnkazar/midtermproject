@@ -161,27 +161,6 @@ h2 {
 }
 
 
-.music-player {
-    background: black;
-    border: 2px solid #555;
-    padding: 10px;
-    margin-top: 20px;
-    width: 100%;
-    font-family: 'Courier New', monospace;
-    color: lime;
-}
-.player-bar {
-    height: 10px;
-    background: #333;
-    margin-top: 5px;
-    position: relative;
-}
-.player-progress {
-    width: 60%;
-    height: 100%;
-    background: var(--neon-pink);
-}
-
 
 .education-item, .project-item {
     background: var(--card-bg);
